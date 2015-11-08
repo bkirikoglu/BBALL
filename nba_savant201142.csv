@@ -1,0 +1,98 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,2,27,1,"Fadeaway Jump Shot","2PT Field Goal",14.50,"Chicago Bulls",119,80,1,2.30,"Butler, Jimmy",3.00,16.10
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,1,4,36,0,"Fadeaway Jump Shot","2PT Field Goal",12.10,"Orlando Magic",127,26,0,3.10,"Fournier, Evan",2.60,24.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,4,11,16,0,"Fadeaway Jump Shot","2PT Field Goal",13.00,"Orlando Magic",-107,75,1,2.60,"Gordon, Aaron",4.40,13.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,1,0,00,0,"Floating Jump shot","2PT Field Goal",11.00,"Chicago Bulls",48,75,6,5.80,"Noah, Joakim",2.80,0.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,4,0,05,0,"Jump Bank Shot","3PT Field Goal",26.70,"Houston Rockets",-137,223,0,2.90,"Harden, James",1.60,0.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,8,10,1,"Jump Shot","2PT Field Goal",18.90,"Chicago Bulls",138,116,0,0.60,"Butler, Jimmy",2.20,15.30
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,4,48,1,"Jump Shot","2PT Field Goal",11.10,"Chicago Bulls",-125,149,1,1.30,"Butler, Jimmy",1.50,13.40
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,1,9,09,0,"Jump Shot","3PT Field Goal",24.70,"Toronto Raptors",66,232,0,0.90,"Carroll, DeMarre",10.50,14.10
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,4,0,13,1,"Jump Shot","3PT Field Goal",25.90,"Orlando Magic",-32,257,0,0.60,"Gordon, Aaron",4.70,0.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,1,6,43,1,"Jump Shot","3PT Field Goal",24.30,"Toronto Raptors",171,183,0,1.30,"Carroll, DeMarre",13.30,20.40
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,3,14,1,"Jump Shot","3PT Field Goal",25.00,"Toronto Raptors",32,242,0,0.70,"Carroll, DeMarre",4.20,8.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,4,5,13,1,"Jump Shot","2PT Field Goal",19.10,"Toronto Raptors",-52,160,0,1.00,"Carroll, DeMarre",3.30,10.70
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,3,10,05,0,"Jump Shot","3PT Field Goal",24.70,"San Antonio Spurs",-27,245,0,0.70,"Leonard, Kawhi",3.80,13.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,6,4,45,0,"Jump Shot","3PT Field Goal",22.90,"Orlando Magic",4,249,0,0.00,"Vucevic, Nikola",21.90,23.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,5,2,55,0,"Jump Shot","3PT Field Goal",25.40,"Orlando Magic",-86,242,0,0.60,"Harris, Tobias",4.10,12.80
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,2,2,12,0,"Jump Shot","3PT Field Goal",24.60,"Orlando Magic",-145,205,0,0.90,"Watson, CJ",14.70,22.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,7,08,1,"Jump Shot","2PT Field Goal",19.30,"Toronto Raptors",-138,100,0,0.80,"Carroll, DeMarre",5.60,12.30
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,3,5,12,0,"Jump Shot","3PT Field Goal",25.70,"Denver Nuggets",140,216,0,0.70,"Gallinari, Danilo",5.20,17.10
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,1,9,30,1,"Jump Shot","2PT Field Goal",19.10,"Denver Nuggets",-160,105,1,4.00,"Gallinari, Danilo",3.00,9.30
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,2,5,57,1,"Jump Shot","3PT Field Goal",16.30,"Denver Nuggets",-143,190,0,0.00,"Lauvergne, Joffrey",6.10,16.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,2,4,53,0,"Jump Shot","3PT Field Goal",23.10,"Denver Nuggets",229,34,0,1.00,"Mudiay, Emmanuel",5.40,17.60
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,2,3,45,1,"Jump Shot","3PT Field Goal",26.30,"Houston Rockets",-55,257,0,0.70,"Beverley, Patrick",3.90,5.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,2,2,58,0,"Jump Shot","3PT Field Goal",26.00,"Houston Rockets",141,213,0,0.80,"Ariza, Trevor",4.90,8.80
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,2,0,34,1,"Jump Shot","3PT Field Goal",25.00,"Houston Rockets",82,239,0,0.80,"Brewer, Corey",5.20,22.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,1,4,06,1,"Jump Shot","3PT Field Goal",25.00,"Houston Rockets",173,183,1,4.40,"Capela, Clint",4.80,15.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,4,5,11,0,"Jump Shot","2PT Field Goal",8.40,"Houston Rockets",64,56,0,0.80,"Ariza, Trevor",2.40,14.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,2,0,52,0,"Jump Shot","2PT Field Goal",13.90,"Houston Rockets",-125,41,0,0.50,"Brewer, Corey",5.10,16.30
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,3,8,05,0,"Jump Shot","3PT Field Goal",25.00,"Houston Rockets",217,120,0,1.40,"Howard, Dwight",3.70,9.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,4,9,17,0,"Jump Shot","3PT Field Goal",23.80,"San Antonio Spurs",228,70,1,1.10,"Leonard, Kawhi",4.30,5.30
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,2,2,01,0,"Jump Shot","2PT Field Goal",12.10,"San Antonio Spurs",-24,740,2,3.30,"Leonard, Kawhi",3.40,7.80
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,1,8,01,1,"Jump Shot","2PT Field Goal",15.90,"San Antonio Spurs",-138,78,1,1.30,"Leonard, Kawhi",5.00,16.50
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,4,4,17,1,"Jump Shot","3PT Field Goal",24.80,"San Antonio Spurs",35,246,0,0.70,"Parker, Tony",3.20,11.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,3,11,17,1,"Jump Shot","3PT Field Goal",23.90,"San Antonio Spurs",-227,75,0,0.80,"Duncan, Tim",7.50,6.70
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,1,11,14,1,"Jump Shot","2PT Field Goal",17.80,"San Antonio Spurs",-83,158,0,0.90,"Leonard, Kawhi",2.70,9.40
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,4,0,58,0,"Jump Shot","3PT Field Goal",24.90,"San Antonio Spurs",196,154,2,4.00,"Leonard, Kawhi",3.50,8.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,1,10,35,0,"Jump Shot","2PT Field Goal",13.50,"San Antonio Spurs",91,99,1,1.10,"Leonard, Kawhi",1.60,14.80
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,3,9,06,0,"Jump Shot","2PT Field Goal",12.80,"San Antonio Spurs",79,101,1,1.90,"Leonard, Kawhi",1.70,14.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,4,2,53,0,"Jump Shot","2PT Field Goal",16.10,"San Antonio Spurs",-29,159,1,1.70,"Green, Danny",4.20,11.90
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,2,5,55,0,"Jump Shot","2PT Field Goal",17.60,"San Antonio Spurs",56,167,3,5.50,"Leonard, Kawhi",2.60,8.10
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,2,5,13,0,"Jump Shot","2PT Field Goal",18.10,"San Antonio Spurs",68,168,2,2.30,"Leonard, Kawhi",3.70,10.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,1,2,08,1,"Jump Shot","2PT Field Goal",19.20,"Orlando Magic",-181,57,0,1.40,"Harris, Tobias",6.00,13.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,11,48,0,"Jump Shot","2PT Field Goal",3.60,"Toronto Raptors",-32,0,1,1.40,"Valanciunas, Jonas",0.80,14.60
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,2,3,02,0,"Jump Shot","2PT Field Goal",16.70,"Toronto Raptors",102,105,0,0.70,"Lowry, Kyle",3.30,13.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,1,33,0,"Jump Shot","3PT Field Goal",25.70,"Toronto Raptors",-96,237,0,0.70,"Carroll, DeMarre",4.80,14.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,1,4,58,0,"Jump Shot","3PT Field Goal",24.80,"Toronto Raptors",141,200,0,0.80,"Lowry, Kyle",5.10,18.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,1,55,0,"Jump Shot","2PT Field Goal",11.20,"Toronto Raptors",10,105,2,2.50,"Joseph, Cory",3.50,12.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,1,0,55,0,"Jump Shot","2PT Field Goal",16.30,"Toronto Raptors",69,146,10,9.50,"Carroll, DeMarre",2.40,14.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,4,6,14,0,"Jump Shot","3PT Field Goal",24.20,"Chicago Bulls",-161,218,4,7.20,"Butler, Jimmy",2.40,3.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,3,21,1,"Jump Shot","2PT Field Goal",15.80,"Chicago Bulls",125,75,10,9.60,"Butler, Jimmy",0.70,13.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,4,0,58,1,"Jump Shot","2PT Field Goal",16.80,"Chicago Bulls",-4,178,5,3.70,"Butler, Jimmy",5.10,16.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,0,47,1,"Jump Shot","2PT Field Goal",14.40,"Chicago Bulls",140,-11,1,2.00,"Butler, Jimmy",2.50,11.40
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,6,33,1,"Jump Shot","2PT Field Goal",16.20,"Chicago Bulls",50,129,3,4.70,"Butler, Jimmy",3.90,10.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,4,2,29,0,"Jump Shot","2PT Field Goal",11.50,"Chicago Bulls",-178,41,1,1.40,"Butler, Jimmy",1.10,13.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,7,38,0,"Jump Shot","2PT Field Goal",16.80,"Chicago Bulls",97,149,0,0.60,"Butler, Jimmy",3.20,24.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,8,35,0,"Jump Shot","2PT Field Goal",8.10,"Chicago Bulls",-35,95,1,1.10,"Brooks, Aaron",0.80,7.70
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,1,10,46,1,"Jump Shot","3PT Field Goal",25.40,"Chicago Bulls",174,188,0,0.70,"Rose, Derrick",2.70,2.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,4,8,02,1,"Jump Shot","3PT Field Goal",26.70,"Chicago Bulls",101,234,0,0.60,"Butler, Jimmy",5.30,13.30
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,1,24,0,"Jump Shot","3PT Field Goal",31.30,"Chicago Bulls",-174,252,1,9.60,"Butler, Jimmy",2.30,1.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,7,55,1,"Jump Shot","3PT Field Goal",25.00,"Chicago Bulls",79,234,0,0.70,"Butler, Jimmy",6.80,17.80
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,3,9,30,0,"Jump Shot","3PT Field Goal",26.00,"Chicago Bulls",150,195,7,7.20,"Butler, Jimmy",5.00,15.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,1,5,17,0,"Jump Shot","2PT Field Goal",12.80,"Chicago Bulls",-60,97,3,3.40,"Butler, Jimmy",2.30,9.60
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,5,18,0,"Jump Shot","2PT Field Goal",21.40,"Chicago Bulls",120,170,1,1.50,"Butler, Jimmy",4.50,11.50
+"Kevin Durant","Oklahoma City Thunder",2015-11-05,2015,3202,1610612760,400827957,2,1,15,0,"Jump Shot","2PT Field Goal",12.90,"Chicago Bulls",135,77,1,2.00,"Butler, Jimmy",1.70,14.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,4,4,37,1,"Jump Shot","3PT Field Goal",25.70,"Orlando Magic",-83,232,0,0.70,"Harris, Tobias",4.80,14.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,6,3,54,0,"Jump Shot","2PT Field Goal",13.50,"Orlando Magic",-34,115,2,1.80,"Harris, Tobias",2.30,13.30
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,3,4,26,1,"Jump Shot","3PT Field Goal",24.90,"Orlando Magic",-151,208,0,1.10,"Fournier, Evan",3.00,10.70
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,1,10,12,1,"Jump Shot","2PT Field Goal",18.20,"Orlando Magic",-127,110,0,1.50,"Fournier, Evan",2.10,12.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,5,1,03,0,"Jump Shot","2PT Field Goal",18.90,"Orlando Magic",10,180,1,1.30,"Harris, Tobias",3.10,10.70
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,3,3,39,0,"Jump Shot","3PT Field Goal",24.40,"Orlando Magic",60,239,0,1.50,"Fournier, Evan",1.70,12.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,4,9,33,0,"Jump Shot","3PT Field Goal",26.70,"Orlando Magic",1,249,0,0.90,"Gordon, Aaron",4.20,10.40
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,1,5,11,1,"Jump Shot","2PT Field Goal",9.30,"Denver Nuggets",92,14,0,1.00,"Faried, Kenneth",6.10,14.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,2,1,25,1,"Jump Shot","3PT Field Goal",25.40,"Denver Nuggets",84,240,0,0.70,"Gallinari, Danilo",3.50,12.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,3,4,29,0,"Jump Shot","2PT Field Goal",18.70,"Denver Nuggets",-170,78,2,6.60,"Gallinari, Danilo",3.70,16.80
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,3,0,34,1,"Pullup Jump shot","3PT Field Goal",25.40,"Denver Nuggets",125,221,4,3.70,"Arthur, Darrell",4.50,8.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,1,7,47,0,"Pullup Jump shot","2PT Field Goal",19.10,"Houston Rockets",168,82,1,1.50,"Ariza, Trevor",5.00,11.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,1,2,37,0,"Pullup Jump shot","3PT Field Goal",24.80,"San Antonio Spurs",181,168,7,5.40,"Leonard, Kawhi",3.50,17.60
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,1,6,44,0,"Pullup Jump shot","3PT Field Goal",25.60,"Houston Rockets",-125,223,8,8.50,"Thornton, Marcus",3.00,16.10
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,3,9,30,1,"Pullup Jump shot","2PT Field Goal",17.60,"Toronto Raptors",102,126,4,3.40,"Carroll, DeMarre",3.40,11.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,1,4,41,0,"Pullup Jump shot","2PT Field Goal",10.50,"Houston Rockets",-61,80,9,9.80,"Thornton, Marcus",6.00,13.80
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,2,2,40,1,"Pullup Jump shot","2PT Field Goal",15.10,"Orlando Magic",86,120,2,5.20,"Fournier, Evan",1.40,14.70
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,3,6,29,0,"Pullup Jump shot","2PT Field Goal",14.00,"Orlando Magic",145,3,1,3.20,"Fournier, Evan",2.10,9.50
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,4,6,16,1,"Pullup Jump shot","2PT Field Goal",15.50,"Houston Rockets",101,115,1,2.90,"Ariza, Trevor",3.50,8.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,4,1,17,0,"Pullup Jump shot","2PT Field Goal",11.10,"Houston Rockets",-68,100,3,4.60,"Ariza, Trevor",2.80,18.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,6,1,35,1,"Pullup Jump shot","2PT Field Goal",14.70,"Orlando Magic",14,139,2,2.00,"Harris, Tobias",2.90,7.30
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,1,9,17,0,"Pullup Jump shot","2PT Field Goal",20.20,"Orlando Magic",74,159,1,5.40,"Fournier, Evan",1.70,8.20
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,6,4,19,1,"Pullup Jump shot","2PT Field Goal",19.70,"Orlando Magic",119,149,1,3.00,"Harris, Tobias",3.90,10.00
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,1,5,42,1,"Pullup Jump shot","2PT Field Goal",18.40,"San Antonio Spurs",77,166,2,2.90,"Leonard, Kawhi",3.30,17.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,2,2,15,1,"Pullup Jump shot","3PT Field Goal",26.80,"Houston Rockets",-25,257,0,0.70,"Lawson, Ty",2.90,18.60
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,1,4,10,1,"Pullup Jump shot","2PT Field Goal",16.20,"Orlando Magic",-58,159,2,2.90,"Fournier, Evan",3.10,15.10
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,4,3,17,0,"Pullup Jump shot","3PT Field Goal",27.50,"Houston Rockets",-19,277,2,2.60,"Ariza, Trevor",5.40,4.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,3,7,49,1,"Running Jump Shot","2PT Field Goal",12.60,"Denver Nuggets",-44,118,3,4.70,"Faried, Kenneth",2.70,17.90
+"Kevin Durant","Oklahoma City Thunder",2015-11-02,2015,3202,1610612760,400827936,3,11,44,1,"Running Jump Shot","2PT Field Goal",12.70,"Houston Rockets",96,95,1,3.90,"Ariza, Trevor",2.60,12.20
+"Kevin Durant","Oklahoma City Thunder",2015-10-28,2015,3202,1610612760,400827900,3,8,12,0,"Running Jump Shot","2PT Field Goal",8.10,"San Antonio Spurs",77,25,3,3.80,"Duncan, Tim",2.30,18.50
+"Kevin Durant","Oklahoma City Thunder",2015-10-30,2015,3202,1610612760,400827909,3,11,06,0,"Running Jump Shot","3PT Field Goal",25.60,"Orlando Magic",91,229,0,1.90,"Fournier, Evan",3.20,19.20
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,2,5,32,1,"Turnaround Jump Shot","2PT Field Goal",11.60,"Toronto Raptors",74,56,2,3.10,"Carroll, DeMarre",3.10,9.00
+"Kevin Durant","Oklahoma City Thunder",2015-11-01,2015,3202,1610612760,400827931,2,3,46,1,"Turnaround Jump Shot","2PT Field Goal",14.60,"Denver Nuggets",-55,135,2,3.80,"Mudiay, Emmanuel",3.10,8.10
+"Kevin Durant","Oklahoma City Thunder",2015-11-04,2015,3202,1610612760,400827953,4,0,58,0,"Turnaround Jump Shot","2PT Field Goal",15.70,"Toronto Raptors",137,3,1,2.00,"Carroll, DeMarre",2.50,6.50

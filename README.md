@@ -10,3 +10,6 @@
 
 ####Current Progress:
 ![](court.jpg)
+![](heat-map.png)
+![](heat-map2.png)
+![](heat-map3.png)
